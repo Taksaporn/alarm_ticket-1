@@ -1,6 +1,6 @@
 #!/usr/bin/python -u
 import time
-from src_script.MySQL import Database
+from MySQL import Database
 from tts_v1 import TTS
 from splunk import SPLUNK
 
